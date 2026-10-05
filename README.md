@@ -8,6 +8,10 @@ Users can search for images, browse paginated results, open images in a lightbox
 
 [View the live application](https://erenaysener.github.io/image-search-app/)
 
+## Preview
+
+![Image Search App Preview](./image-search-preview.png)
+
 ## Features
 
 - Search images using the Pixabay API
